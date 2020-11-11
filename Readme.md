@@ -6,4 +6,4 @@ Un blog para hablar sobre mi serie favorita
 
 ## En este Curso estamos aplicando nuevas cosas
 
-^^Estamos parendiendo^^
+**Estamos parendiendo**
